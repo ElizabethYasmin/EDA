@@ -18,7 +18,7 @@
 Red | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `ehuancap@unsa.edu.pe`
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | `https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white`
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | `https://github.com/ElizabethYasmin`
 
 ## Valencia
 
@@ -32,7 +32,7 @@ Red | URL
 Red | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `imoscosoa@unsa.edu.pe`
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | `https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white`
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | `https://github.com/ImaMos01`
 
 
 

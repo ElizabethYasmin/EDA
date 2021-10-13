@@ -14,11 +14,11 @@
 
 
 ## Menu
-- [Contato](#contato)
-- [Social](#social)
-- [Blog](#blog)
+- [Huanca Parqui, Elizabeth Yasmin](#Huanca)
+- [Valencia Arana, Gabriel Adriano](#Valencia)
+- [Moscoso Apaza, Imanol Brayan](#Moscoso)
 
-## Contato
+## Huanca
 
 Badge | URL
 ------------ | -------------
@@ -28,6 +28,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /> | `https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white`
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> | `https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white`
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white`
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | `https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white`
 
 
 

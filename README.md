@@ -6,8 +6,8 @@
 [![REPOSITÓRIO](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/ElizabethYasmin/EDA)
 
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" width="300px;" alt="Foto do Mark Zuckerberg"/><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" width="200px;" alt="Foto do Mark Zuckerberg"/><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="90px;" alt="Foto do Mark Zuckerberg"/><br>
 
 ## Menu
 - [Huanca Parqui, Elizabeth Yasmin](#Huanca)

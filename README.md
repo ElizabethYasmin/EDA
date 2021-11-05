@@ -8,6 +8,8 @@
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" width="200px;" alt="Foto do Mark Zuckerberg"/><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50px;" alt="Foto do Mark Zuckerberg"/><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="70px;" alt="Foto do Mark Zuckerberg"/><br>
+
 
 ## Menu
 - [Huanca Parqui, Elizabeth Yasmin](#Huanca)
